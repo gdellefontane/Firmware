@@ -108,7 +108,7 @@ set(config_module_list
 	modules/controllib
 	modules/uORB
 	modules/dataman
-
+	examples/px4_simple_app
 	#
 	# Libraries
 	#
